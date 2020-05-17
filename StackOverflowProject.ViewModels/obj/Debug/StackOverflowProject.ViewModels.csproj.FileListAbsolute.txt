@@ -32,3 +32,14 @@ C:\Users\DELL\Downloads\original\StackOverflowProject\StackOverflowProject.ViewM
 C:\Users\DELL\Downloads\original\StackOverflowProject\StackOverflowProject.ViewModels\obj\Debug\StackOverflowProject.ViewModels.csproj.CopyComplete
 C:\Users\DELL\Downloads\original\StackOverflowProject\StackOverflowProject.ViewModels\obj\Debug\StackOverflowProject.ViewModels.dll
 C:\Users\DELL\Downloads\original\StackOverflowProject\StackOverflowProject.ViewModels\obj\Debug\StackOverflowProject.ViewModels.pdb
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.ViewModels\bin\Debug\StackOverflowProject.ViewModels.dll.config
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.ViewModels\bin\Debug\StackOverflowProject.ViewModels.dll
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.ViewModels\bin\Debug\StackOverflowProject.ViewModels.pdb
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.ViewModels\bin\Debug\EntityFramework.dll
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.ViewModels\bin\Debug\EntityFramework.SqlServer.dll
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.ViewModels\bin\Debug\EntityFramework.xml
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.ViewModels\bin\Debug\EntityFramework.SqlServer.xml
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.ViewModels\obj\Debug\StackOverflowProject.ViewModels.csproj.CopyComplete
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.ViewModels\obj\Debug\StackOverflowProject.ViewModels.dll
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.ViewModels\obj\Debug\StackOverflowProject.ViewModels.pdb
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.ViewModels\obj\Debug\StackOverflowProject.ViewModels.csprojAssemblyReference.cache

@@ -41,3 +41,17 @@ C:\Users\DELL\Downloads\original\StackOverflowProject\StackOverflowProject.Repos
 C:\Users\DELL\Downloads\original\StackOverflowProject\StackOverflowProject.Repositories\obj\Debug\StackOverflowProject.Repositories.csproj.CopyComplete
 C:\Users\DELL\Downloads\original\StackOverflowProject\StackOverflowProject.Repositories\obj\Debug\StackOverflowProject.Repositories.dll
 C:\Users\DELL\Downloads\original\StackOverflowProject\StackOverflowProject.Repositories\obj\Debug\StackOverflowProject.Repositories.pdb
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\StackOverflowProject.Repositories.dll.config
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\StackOverflowProject.Repositories.dll
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\StackOverflowProject.Repositories.pdb
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\EntityFramework.dll
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\StackOverflowProject.DomainModels.dll
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\StackOverflowProject.DomainModels.pdb
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\StackOverflowProject.DomainModels.dll.config
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\EntityFramework.xml
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.Repositories\obj\Debug\StackOverflowProject.Repositories.csprojAssemblyReference.cache
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.Repositories\obj\Debug\StackOverflowProject.Repositories.csproj.CopyComplete
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.Repositories\obj\Debug\StackOverflowProject.Repositories.dll
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.Repositories\obj\Debug\StackOverflowProject.Repositories.pdb

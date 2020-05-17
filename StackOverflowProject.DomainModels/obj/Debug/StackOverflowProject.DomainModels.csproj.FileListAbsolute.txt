@@ -32,3 +32,13 @@ C:\Users\DELL\Downloads\original\StackOverflowProject\StackOverflowProject.Domai
 C:\Users\DELL\Downloads\original\StackOverflowProject\StackOverflowProject.DomainModels\obj\Debug\StackOverflowProject.DomainModels.csproj.CopyComplete
 C:\Users\DELL\Downloads\original\StackOverflowProject\StackOverflowProject.DomainModels\obj\Debug\StackOverflowProject.DomainModels.dll
 C:\Users\DELL\Downloads\original\StackOverflowProject\StackOverflowProject.DomainModels\obj\Debug\StackOverflowProject.DomainModels.pdb
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.DomainModels\bin\Debug\StackOverflowProject.DomainModels.dll.config
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.DomainModels\bin\Debug\StackOverflowProject.DomainModels.dll
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.DomainModels\bin\Debug\StackOverflowProject.DomainModels.pdb
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.DomainModels\bin\Debug\EntityFramework.dll
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.DomainModels\bin\Debug\EntityFramework.SqlServer.dll
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.DomainModels\bin\Debug\EntityFramework.xml
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.DomainModels\bin\Debug\EntityFramework.SqlServer.xml
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.DomainModels\obj\Debug\StackOverflowProject.DomainModels.csproj.CopyComplete
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.DomainModels\obj\Debug\StackOverflowProject.DomainModels.dll
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.DomainModels\obj\Debug\StackOverflowProject.DomainModels.pdb

@@ -1,0 +1,14 @@
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.Repositories\bin\Release\StackOverflowProject.Repositories.dll.config
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.Repositories\bin\Release\StackOverflowProject.Repositories.dll
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.Repositories\bin\Release\StackOverflowProject.Repositories.pdb
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.Repositories\bin\Release\EntityFramework.dll
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.Repositories\bin\Release\EntityFramework.SqlServer.dll
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.Repositories\bin\Release\StackOverflowProject.DomainModels.dll
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.Repositories\bin\Release\StackOverflowProject.DomainModels.pdb
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.Repositories\bin\Release\StackOverflowProject.DomainModels.dll.config
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.Repositories\bin\Release\EntityFramework.xml
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.Repositories\bin\Release\EntityFramework.SqlServer.xml
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.Repositories\obj\Release\StackOverflowProject.Repositories.csprojAssemblyReference.cache
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.Repositories\obj\Release\StackOverflowProject.Repositories.csproj.CopyComplete
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.Repositories\obj\Release\StackOverflowProject.Repositories.dll
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.Repositories\obj\Release\StackOverflowProject.Repositories.pdb

@@ -1,0 +1,10 @@
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.ViewModels\bin\Release\StackOverflowProject.ViewModels.dll.config
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.ViewModels\bin\Release\StackOverflowProject.ViewModels.dll
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.ViewModels\bin\Release\StackOverflowProject.ViewModels.pdb
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.ViewModels\bin\Release\EntityFramework.dll
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.ViewModels\bin\Release\EntityFramework.SqlServer.dll
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.ViewModels\bin\Release\EntityFramework.xml
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.ViewModels\bin\Release\EntityFramework.SqlServer.xml
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.ViewModels\obj\Release\StackOverflowProject.ViewModels.csproj.CopyComplete
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.ViewModels\obj\Release\StackOverflowProject.ViewModels.dll
+F:\Shweta\original\StackOverflowProject\StackOverflowProject.ViewModels\obj\Release\StackOverflowProject.ViewModels.pdb
